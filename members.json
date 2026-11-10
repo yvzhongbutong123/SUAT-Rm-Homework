@@ -2,12 +2,13 @@
   "version": 1,
   "members": {
     "yvzhongbutong123": {
-      "role": "member",
+      "role": "leader",
       "group": null,
       "name": "yvzhongbutong123",
       "createdAt": "2026-11-10T05:14:44.543Z",
-      "pendingGroup": true
+      "pendingGroup": true,
+      "promotedAt": "2026-11-10T05:14:56.642Z"
     }
   },
-  "updatedAt": "2026-11-10T05:14:48.310Z"
+  "updatedAt": "2026-11-10T05:14:56.642Z"
 }
