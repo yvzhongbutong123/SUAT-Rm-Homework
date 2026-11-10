@@ -3,12 +3,13 @@
   "members": {
     "yvzhongbutong123": {
       "role": "leader",
-      "group": null,
+      "group": "algo",
       "name": "yvzhongbutong123",
       "createdAt": "2026-11-10T05:14:44.543Z",
       "pendingGroup": true,
-      "promotedAt": "2026-11-10T05:14:56.642Z"
+      "promotedAt": "2026-11-10T05:14:56.642Z",
+      "updatedAt": "2026-11-10T05:15:55.993Z"
     }
   },
-  "updatedAt": "2026-11-10T05:14:56.642Z"
+  "updatedAt": "2026-11-10T05:15:55.993Z"
 }
